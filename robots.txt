@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kmui-epic.github.io/test-site/sitemap.xml

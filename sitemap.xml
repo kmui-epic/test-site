@@ -1,0 +1,27 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://kmui-epic.github.io/test-site/</loc>
+<lastmod>2024-03-27T15:18:13+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://kmui-epic.github.io/test-site/index.html</loc>
+<lastmod>2024-03-27T15:18:27+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kmui-epic.github.io/test-site/locations/southKorea.html</loc>
+<lastmod>2024-03-27T15:18:27+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kmui-epic.github.io/test-site/locations/california.html</loc>
+<lastmod>2024-03-27T15:18:27+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kmui-epic.github.io/test-site/locations/miami.html</loc>
+<lastmod>2024-03-27T15:18:27+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+</urlset>
